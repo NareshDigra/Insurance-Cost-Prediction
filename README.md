@@ -1,8 +1,8 @@
 # Insurane-Cost-Prediction
 <h1>Features:</h1>
-<h3>Allows users to input their age, gender, BMI, number of children, smoking status, and region. Predicts insurance costs using a pre-trained machine learning model. Provides real-time predictions for insurance costs. Technologies Used: Python Tkinter (for GUI) Machine Learning (for prediction)
+Allows users to input their age, gender, BMI, number of children, smoking status, and region. Predicts insurance costs using a pre-trained machine learning model. Provides real-time predictions for insurance costs. Technologies Used: Python Tkinter (for GUI) Machine Learning (for prediction)
 Insurance Cost Prediction
-This project is a simple GUI application built using Python's Tkinter library for predicting insurance costs based on user-provided data. It utilizes a machine learning model trained on insurance data to make predictions.</h3>
+This project is a simple GUI application built using Python's Tkinter library for predicting insurance costs based on user-provided data. It utilizes a machine learning model trained on insurance data to make predictions.
 
 <h1>Features:</h1>
 
